@@ -9,6 +9,7 @@ class FavoritesScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    
     // filter favorites
     List<Building> favorites =
         campusBuildings.where((b) => b.isFavorite).toList();
@@ -45,6 +46,7 @@ class FavoritesScreen extends StatelessWidget {
                     );
                   },
                   onFavorite: () {
+
                     // toggle and refresh UI by popping & pushing again
                     building.isFavorite = false;
                   },

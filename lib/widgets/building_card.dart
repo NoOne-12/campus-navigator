@@ -65,3 +65,4 @@ class BuildingCard extends StatelessWidget {
     );
   }
 }
+

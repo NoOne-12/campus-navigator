@@ -13,4 +13,4 @@ class Building {
     required this.location, 
     this.isFavorite = false,
   });
-}
+} 

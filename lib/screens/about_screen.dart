@@ -38,7 +38,7 @@ class AboutScreen extends StatelessWidget {
 
             Text("- Naol Gelana             UGR/35081/16"),
             Text("- Ibsa Magarsa            UGR/34652/16"),
-            Text("- abdulletif Ylkal        UGR/35974/16"),
+            Text("- Abdulletif Ylkal        UGR/35974/16"),
             Text("- Firaol Ararso           UGR/34431/16"),
             Text("- Wogari Ararsa           UGR/35558/16"),
             Text("- Dagim Girma             UGR/34169/16"),
